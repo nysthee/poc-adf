@@ -1,0 +1,20 @@
+{
+	"name": "MetadataDrivenCopyTask_wkp_ControlDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "linkedService1",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "MetadataDrivenCopyTask_wkp_20220420"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "MainControlTable_wkp"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

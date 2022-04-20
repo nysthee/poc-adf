@@ -1,0 +1,7 @@
+{
+	"name": "AzureDataLakeStorage3",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d8c11f24-e6f4-46bc-b900-14979997eb42/resourceGroups/poc-thomas/providers/Microsoft.Storage/storageAccounts/pocadfthomas",
+		"groupId": "dfs"
+	}
+}

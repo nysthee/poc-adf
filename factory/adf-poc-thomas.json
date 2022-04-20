@@ -1,0 +1,9 @@
+{
+	"name": "adf-poc-thomas",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4e958aa7-1785-4721-9058-d45e5f307fcc",
+		"tenantId": "2337dcc6-3a21-4d95-bf72-da5551a9b048"
+	}
+}
